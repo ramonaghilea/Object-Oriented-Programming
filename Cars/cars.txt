@@ -1,0 +1,5 @@
+Mercedes-Benz | SUV | 2013 | blue
+Volkswagen | SUV | 2010 | dark cyan
+Audi | Sportscar | 2015 | red
+Volkswagen | Hatchback | 2008 | gray
+Mercedes-Benz | Sportscar | 2009 | green
