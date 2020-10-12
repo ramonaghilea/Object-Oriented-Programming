@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-My projects for the Object-Oriented Programming Course from the University
+My projects for the Object-Oriented Programming Course studied at the University
